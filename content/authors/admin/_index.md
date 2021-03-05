@@ -1,27 +1,29 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include British politics (widely defined), Liverpool's political history, Scouse identity, and quantitative methodologies.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
-highlight_name: false
+  - course: PhD in Politics
+    institution: Queen Mary University of London
+    year: 2014 - 2017
+  - course: MA in Politics with Research Methods
+    institution: University of Sheffield
+    year: 2013 - 2014
+  - course: BA in Politics and International Relations
+    institution: University of Sheffield
+    year: 2010 - 2013
+email: "djeffery@liverpool.ac.uk"
+highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- British politics
+- Populism and populist parties
+- Liverpool's political history
+- Scouse identity
+- MPs' voting behaviour
+- Party members
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University of Liverpool
+  url: https://www.liverpool.ac.uk/politics/staff/david-jeffery/
+role: Lecturer in Politics
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,18 +33,27 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/DrDavidJeffery
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=SzexHhEAAAAJ
+- icon: lightbulb
+  icon_pack: far
+  link: https://liverpool.academia.edu/DavidJeffery
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/davidjeffery
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/david-jeffery-73026655/
+- icon: medium
+  icon_pack: fab
+  link: https://drdavidjeffery.medium.com/
+- icon: newspaper
+  icon_pack: far
+  link: https://muckrack.com/david-jeffery/
 superuser: true
-title: Nelson Bighetti
+title: Dr David Jeffery
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
