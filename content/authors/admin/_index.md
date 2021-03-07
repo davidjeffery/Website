@@ -15,7 +15,7 @@ email: "djeffery@liverpool.ac.uk"
 highlight_name: true
 interests:
 - British politics
-- Populism and populist parties
+- Populism, populist parties,and populist voters 
 - Liverpool's political history
 - Scouse identity
 - MPs' voting behaviour
@@ -56,8 +56,12 @@ superuser: true
 title: Dr David Jeffery
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I'm David, a lecturer in politics at the University of Liverpool. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+- Research interests
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+- Current projects
+
+- What you can find on this site
+
+- Hobbies
