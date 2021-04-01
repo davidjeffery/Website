@@ -65,10 +65,12 @@ title: Dr David Jeffery
 
 Hi! I'm David, a lecturer in politics at the University of Liverpool. 
 
-- Research interests
+My research interests centre around the concept of identity and its influence on voting behaviour. This takes two main forms:
 
-- Current projects
+1. I'm keenly interested in local identities and how they interact with voting behaviour - my main focus is the Scouse identity within Liverpool and Merseyside. This interest builds on my doctoral work on Liverpool's political history, and especially the role of identity in Conservative electoal decline.
 
-- What you can find on this site
+2. I'm also interested in the role of identities on the voting behaviour of elected parliamentarians, as well as the broader reasons why they vote the way they do.
 
-- Hobbies
+I am also involved in building a database of local election results from across Merseyside, imaginatively called the [Merseyside Local Election Results Project](https://docs.google.com/spreadsheets/d/1M62Kn7Za_70jvmC5DI9hzXMyEfD5S5vwZrniPt7s0Sg/edit#gid=0).
+
+In my spare time I'm usually found triathlon training (my 2021 goal is to complete the Challenge Peguera Mallorca half-Ironman), watching reruns of Friends on Netflix, or falling down weird Wikipedia holes. 
