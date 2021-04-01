@@ -34,9 +34,16 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/DrDavidJeffery
+- icon: instagram
+  icon_pack: fab
+  label: Follow me on Twitter
+  link: https://instagram.com/chairmandavey
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=SzexHhEAAAAJ
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-9064-5544
 - icon: lightbulb
   icon_pack: far
   link: https://liverpool.academia.edu/DavidJeffery

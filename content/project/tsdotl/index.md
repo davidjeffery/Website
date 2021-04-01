@@ -13,7 +13,7 @@ slides: example
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
-title: The Strange Death of Tory Liverpool: The Book
+title: The Strange Death of Tory Liverpool
 url_code: ""
 url_pdf: ""
 url_slides: ""
