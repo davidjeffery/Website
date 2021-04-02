@@ -1,17 +1,5 @@
 ---
 abstract: This is a presentation I gave at the 2021 Political Studies Association Annual Conference in March 2021.
-
-In this talk, I look at:
-
-🗺 The geographic distribution of the Scouse identity across Merseyside - Liverpool, Knowsley, Sefton, St. Helens and the Wirral
-
-🗳 The relationship between Scouseness and party politics
-
-🆔 How Scouseness compared to 🇬🇧 Britishness, 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Englishness, 🏴󠁧󠁢󠁳󠁣󠁴󠁿Scottishness and 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Welshness when it comes to ideological values, including left-right position, authoritarian-libertarianism, populism and equality.
-
-🏛 How scouse identity impacts support for the Liverpool City Region
-
-🚨 Warning: I tried to fit 30 mins of content into 20 mins - if you want to have a more in-depth conversation, or want to have a chat about potential research collaboration, please get in touch! I'm always happy to geek out.
 address:
   city: Stanford
   country: United States
