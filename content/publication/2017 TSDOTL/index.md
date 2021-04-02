@@ -1,5 +1,5 @@
 ---
-abstract: In modern discourse, Liverpool is a by-word for anti-Tory sentiment, yet the city has not always been so inhospitable for the Conservatives. From the mid-18th century until the 1970s, the Conservatives dominated the city council and often held over half of Liverpool’s parliamentary constituencies. Whilst popular opinion ascribes Conservative decline in Liverpool to Margaret Thatcher, Conservative Prime Minister from 1979 to 1990, it began a decade before Thatcher gained power. \nThis article argues that Conservative decline in Liverpool was due to the increasing inability of socialisation to create new Conservative voters, coupled with dissatisfaction with the Heath government and a rejection of unresponsive local party machines. The Liberal Party, through their use of pavement politics, were able to exploit these issues. Their 1973 local election victory allowed them to displace the Conservatives as the main opposition to Labour in most of the city, thus beginning the strange death of Tory Liverpool.
+abstract: In modern discourse, Liverpool is a by-word for anti-Tory sentiment, yet the city has not always been so inhospitable for the Conservatives. From the mid-18th century until the 1970s, the Conservatives dominated the city council and often held over half of Liverpool’s parliamentary constituencies. Whilst popular opinion ascribes Conservative decline in Liverpool to Margaret Thatcher, Conservative Prime Minister from 1979 to 1990, it began a decade before Thatcher gained power. This article argues that Conservative decline in Liverpool was due to the increasing inability of socialisation to create new Conservative voters, coupled with dissatisfaction with the Heath government and a rejection of unresponsive local party machines. The Liberal Party, through their use of pavement politics, were able to exploit these issues. Their 1973 local election victory allowed them to displace the Conservatives as the main opposition to Labour in most of the city, thus beginning the strange death of Tory Liverpool.
 
 authors:
 - admin
@@ -18,7 +18,7 @@ projects:
 publication: In *British Politics*
 publication_short: In *STC*
 publication_types:
-- "1"
+- "2"
 publishDate: "2016-10-25T00:00:00Z"
 slides: 
 summary:
