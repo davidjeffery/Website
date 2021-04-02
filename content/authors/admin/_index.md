@@ -14,11 +14,10 @@ education:
 email: "djeffery@liverpool.ac.uk"
 highlight_name: true
 interests:
-- British politics
-- Populism, populist parties,and populist voters 
-- Liverpool's political history
+- The history and politics of Liverpool
 - Scouse identity
-- MPs' voting behaviour
+- Identities and political behaviour
+- British politics
 - Party members
 organizations:
 - name: University of Liverpool
@@ -65,12 +64,14 @@ title: Dr David Jeffery
 
 Hi! I'm David, a lecturer in politics at the University of Liverpool. 
 
-My research interests centre around the concept of identity and its influence on voting behaviour. This takes two main forms:
+My research interests are broad, but typically centre around the concept of identity and its influence on voting behaviour. This takes two main forms:
 
-1. I'm keenly interested in local identities and how they interact with voting behaviour - my main focus is the Scouse identity within Liverpool and Merseyside. This interest builds on my doctoral work on Liverpool's political history, and especially the role of identity in Conservative electoal decline.
+1. Exploring which local identities are politically salient, and how this salience plays out with regard to voting behaviour.
 
 2. I'm also interested in the role of identities on the voting behaviour of elected parliamentarians, as well as the broader reasons why they vote the way they do.
 
+3. Anything else which piques my interest.
+
 I am also involved in building a database of local election results from across Merseyside, imaginatively called the [Merseyside Local Election Results Project](https://docs.google.com/spreadsheets/d/1M62Kn7Za_70jvmC5DI9hzXMyEfD5S5vwZrniPt7s0Sg/edit#gid=0).
 
-In my spare time I'm usually found triathlon training (my 2021 goal is to complete the Challenge Peguera Mallorca half-Ironman), watching reruns of Friends on Netflix, or falling down weird Wikipedia holes. 
+In my spare time I'm usually found triathlon training (my 2021 goal is to complete the Challenge Peguera Mallorca half-Ironman), watching reruns of Friends on Netflix, or learning Spanish on Duolingo. 

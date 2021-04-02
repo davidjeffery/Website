@@ -1,8 +1,17 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac
-  convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac
-  faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien
-  eu, pulvinar tempor diam.
+abstract: This is a presentation I gave at the 2021 Political Studies Association Annual Conference in March 2021.
+
+In this talk, I look at:
+
+🗺 The geographic distribution of the Scouse identity across Merseyside - Liverpool, Knowsley, Sefton, St. Helens and the Wirral
+
+🗳 The relationship between Scouseness and party politics
+
+🆔 How Scouseness compared to 🇬🇧 Britishness, 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Englishness, 🏴󠁧󠁢󠁳󠁣󠁴󠁿Scottishness and 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Welshness when it comes to ideological values, including left-right position, authoritarian-libertarianism, populism and equality.
+
+🏛 How scouse identity impacts support for the Liverpool City Region
+
+🚨 Warning: I tried to fit 30 mins of content into 20 mins - if you want to have a more in-depth conversation, or want to have a chat about potential research collaboration, please get in touch! I'm always happy to geek out.
 address:
   city: Stanford
   country: United States
@@ -31,11 +40,11 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary: An example talk using Wowchemy's Markdown slides feature.
 tags: []
-title: Example Talk
+title: The myth of 'Scouse not English' - Scouse identity: history, mystery, and political relevance today
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=0H3Mw-mM-QY"
 ---
 
 {{% callout note %}}
