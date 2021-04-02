@@ -28,11 +28,11 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary: An example talk using Wowchemy's Markdown slides feature.
 tags: []
-title: The myth of 'Scouse not English' - Scouse identity: history, mystery, and political relevance today
+title: 
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://www.youtube.com/watch?v=0H3Mw-mM-QY"
+url_video: https://www.youtube.com/watch?v=0H3Mw-mM-QY
 ---
 
 {{% callout note %}}
