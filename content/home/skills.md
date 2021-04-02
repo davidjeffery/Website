@@ -19,15 +19,15 @@ feature:
 - description: 90%
   icon: r-project
   icon_pack: fab
-  name: R
+  name: Regreting Life Decisions
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Insider Trading
 - description: 10%
   icon: camera-retro
   icon_pack: fas
-  name: Photography
+  name: c2c
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
