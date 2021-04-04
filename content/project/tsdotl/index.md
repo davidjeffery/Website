@@ -13,7 +13,7 @@ slides: example
 summary: An example of using the in-built project page.
 tags:
 - Liverpool
-title: The Strange Death of Tory Liverpool
+title: Understanding Liverpool's Political History
 url_code: ""
 url_pdf: ""
 url_slides: ""
