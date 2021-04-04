@@ -16,7 +16,7 @@ links:
 projects:
 - Labour
 - Populism
-publication: In *"Corbynism in Perspective: The Labour Party under Jeremy Corbyn"*
+publication: In *Corbynism in Perspective - The Labour Party under Jeremy Corbyn*
 publication_types:
 - "6"
 publishDate: "2020-07-01T00:00:00Z"
