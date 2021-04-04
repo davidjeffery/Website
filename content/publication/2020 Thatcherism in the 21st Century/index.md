@@ -5,21 +5,18 @@ abstract: This collection examines the social and cultural legacy of Thatcherism
 
 editors:
 - admin
-date: "2020-07-01T00:00:00Z"
-doi: 
+date: "2020-07-24T00:00:00Z"
+doi: http://doi.org/10.1007/978-3-030-41792-5
 featured: false
 image:
   preview_only: false
 links:
-- name: Academia.edu
-  url: https://www.academia.edu/45052027/Is_Corbyn_a_Populist
 projects:
-- Labour
-- Populism
+- Conservatives
 publication: In *Corbynism in Perspective - The Labour Party under Jeremy Corbyn*
 publication_types:
-- "6"
-publishDate: "2020-07-01T00:00:00Z"
+- "Edited Book"
+publishDate: "2020-07-24T00:00:00Z"
 slides: 
 summary:
 tags:
