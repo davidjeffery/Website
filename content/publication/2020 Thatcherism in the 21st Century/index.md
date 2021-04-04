@@ -14,14 +14,12 @@ links:
 projects:
 - Conservatives
 publication: In *Thatcherism in the 21st Century*
-publication_types:
-- "Edited Book"
+
 publishDate: "2020-07-24T00:00:00Z"
 slides: 
 summary:
 tags:
-- Labour
-- Populism
+- Conservatives
 url_code: ""
 url_dataset: ""
 url_pdf: ""
