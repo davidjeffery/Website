@@ -17,7 +17,7 @@ projects:
 - Conservatives
 publication: In *Policies and Politics Under Prime Minister Edward Heath*
 publication_types:
-- "2"
+- "6"
 publishDate: "2020-12-11T00:00:00Z"
 slides: 
 summary:
