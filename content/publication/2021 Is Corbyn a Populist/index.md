@@ -14,8 +14,9 @@ links:
 - name: Academia.edu
   url: https://www.academia.edu/45052027/Is_Corbyn_a_Populist
 projects:
-- Conservatives
-publication: In *Corbynism in Perspective: The Labour Party under Jeremy Corbyn*
+- Labour
+- Populism
+publication: In *Corbynism in Perspective The Labour Party under Jeremy Corbyn*
 publication_types:
 - "6"
 publishDate: "2020-07-01T00:00:00Z"
