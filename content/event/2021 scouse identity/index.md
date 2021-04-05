@@ -1,8 +1,8 @@
 ---
-title: The myth of 'Scouse not English' - Scouse identity: history, mystery, and political relevance today
+title: The myth of 'Scouse not English' - Scouse identity history, mystery, and political relevance today
 
 event: Political Studies Association Annual Conference 2021
-# event_url: https://example.org
+event_url: ""
 
 # location: Wowchemy HQ
 # address:
@@ -12,7 +12,7 @@ event: Political Studies Association Annual Conference 2021
 #   postcode: '94305'
 #   country: United States
 
-summary: This is a presentation I gave at the 2021 Political Studies Association Annual Conference in March 2021. In this talk, I look at a) the geographic distribution of the Scouse identity across Merseyside - Liverpool, Knowsley, Sefton, St. Helens and the Wirral, b) the relationship between Scouseness and party politics, c) how Scouseness compared to Britishness, Englishness, Scottishness and Welshness when it comes to ideological values, including left-right position, authoritarian-libertarianism, populism and equality, d) and how scouse identity impacts support for the Liverpool City Region. 🚨 Warning 🚨 I tried to fit 30 mins of content into 20 mins - if you want to have a more in-depth conversation, or want to have a chat about potential research collaboration, please get in touch! I'm always happy to geek out.
+summary: This is a presentation I gave at the 2021 Political Studies Association Annual Conference in March 2021. In this talk, I look at a) the geographic distribution of the Scouse identity across Merseyside - Liverpool, Knowsley, Sefton, St. Helens and the Wirral, b) the relationship between Scouseness and party politics, c) how Scouseness compared to Britishness, Englishness, Scottishness and Welshness when it comes to ideological values, including left-right position, authoritarian-libertarianism, populism and equality, d) and how scouse identity impacts support for the Liverpool City Region. Warning  I tried to fit 30 mins of content into 20 mins - if you want to have a more in-depth conversation, or want to have a chat about potential research collaboration, please get in touch! I'm always happy to geek out.
 
 # abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
@@ -25,7 +25,11 @@ date: "2021-03-31T13:00:00Z"
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-03-31T13:00:00Z"
 
-
+authors:
+- admin
+tags:
+- Liverpool
+- Identity
 
 # Is this a featured talk? (true/false)
 featured: false
