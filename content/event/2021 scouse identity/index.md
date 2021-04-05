@@ -1,35 +1,26 @@
 ---
-title: The myth of 'Scouse not English' - Scouse identity history, mystery, and political relevance today
+title: The myth of 'Scouse not English'
 
 event: Political Studies Association Annual Conference 2021
 event_url: ""
 
-# location: Wowchemy HQ
-# address:
-#   street: 450 Serra Mall
-#   city: Stanford
-#   region: CA
-#   postcode: '94305'
-#   country: United States
+location: ""
 
 summary: This is a presentation I gave at the 2021 Political Studies Association Annual Conference in March 2021. In this talk, I look at a) the geographic distribution of the Scouse identity across Merseyside - Liverpool, Knowsley, Sefton, St. Helens and the Wirral, b) the relationship between Scouseness and party politics, c) how Scouseness compared to Britishness, Englishness, Scottishness and Welshness when it comes to ideological values, including left-right position, authoritarian-libertarianism, populism and equality, d) and how scouse identity impacts support for the Liverpool City Region. Warning  I tried to fit 30 mins of content into 20 mins - if you want to have a more in-depth conversation, or want to have a chat about potential research collaboration, please get in touch! I'm always happy to geek out.
 
-# abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-03-31T13:00:00Z"
-# date_end: "2030-06-01T15:00:00Z"
+date_end: ""
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-03-31T13:00:00Z"
 
-authors:
-- admin
-tags:
-- Liverpool
-- Identity
+authors: ""
+tags: ""
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -53,13 +44,12 @@ url_video: https://www.youtube.com/watch?v=0H3Mw-mM-QY
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: """
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- Identity
+projects: []
 ---
