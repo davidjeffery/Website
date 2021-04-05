@@ -25,11 +25,7 @@ date: "2021-03-31T13:00:00Z"
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-03-31T13:00:00Z"
 
-authors:
-- admin
-tags:
-- Liverpool
-- Identity
+
 
 # Is this a featured talk? (true/false)
 featured: false
