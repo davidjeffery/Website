@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: 
-    tag: 
-  - name: 
-    tag: 
+  - name: Merseyside Local Election Results
+    tag: MLERP
+  - name: Identities
+    tag: Identities
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
