@@ -1,40 +1,73 @@
 ---
-title: "The Conservative Party Leadership Election of 2016: An Analysis of the Voting Motivations of Conservative Parliamentarians"
+title: Example Talk
 
-abstract: This article provides the first systematic examination of the voting motivations of Conservative MPs in the final parliamentary ballot of the Conservative Party leadership election of 2016. We identify the voting behaviour of each Conservative parliamentarian as part of a unique data set that we use to test, through the use of multivariate analysis, a series of hypotheses based around social background variables (i.e. gender and education); political variables (i.e. parliamentary experience, electoral marginality, the electoral threat posed by UKIP and ministerial status); and ideological variables (i.e. attitudes towards same-sex marriage and Brexit). Our findings demonstrate that ideology did matter in terms of voting. Attitudes towards Brexit were central to the appeals of both Theresa May (to Remainers) and Andrea Leadsom (to Leavers). We also demonstrate that in terms of support for Leadsom, Brexit was not the only significant driver, as opinion on same-sex marriage, year of entry and ministerial status also influenced voting behaviour.
+event: Wowchemy Conference
+event_url: https://example.org
 
-authors:
-- admin
-- Timothy Heppell
-- Richard Hayton
-- Andrew Scott Crines
-date: "2017-08-28T00:00:00Z"
-doi: https://doi.org/10.1080/17457289.2017.1403921
+location: Wowchemy HQ
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
+
+summary: An example talk using Wowchemy's Markdown slides feature.
+abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2030-06-01T13:00:00Z"
+date_end: "2030-06-01T15:00:00Z"
+all_day: false
+
+# Schedule page publish date (NOT talk date).
+publishDate: "2017-01-01T00:00:00Z"
+
+authors: []
+tags: []
+
+# Is this a featured talk? (true/false)
 featured: false
+
 image:
-  preview_only: false
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  focal_point: Right
+
 links:
-- name: Academia.edu
-  url: https://www.academia.edu/36173416/The_Conservative_Party_Leadership_Election_of_2016_An_Analysis_of_the_Voting_Motivations_of_Conservative_Parliamentarians
-projects:
-- Analysis of MP's voting behaviour
-- Conservatives
-publication: In *Journal of Elections, Public Opinion and Parties*
-publication_short: In *JEPOP*
-publication_types:
-- "2"
-publishDate: "2017-08-28T00:00:00Z"
-slides: 
-summary:
-tags:
-- Analysis of MP's voting behaviour
-- Conservatives
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/georgecushen
 url_code: ""
-url_dataset: ""
 url_pdf: ""
-url_poster: ""
-url_project: ""
 url_slides: ""
-url_source: ""
 url_video: ""
-------
+
+# Markdown Slides (optional).
+#   Associate this talk with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: example
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects:
+- internal-project
+---
+
+{{% callout note %}}
+Click on the **Slides** button above to view the built-in slides feature.
+{{% /callout %}}
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
