@@ -66,9 +66,9 @@ Hi! I'm David, a lecturer in politics at the University of Liverpool.
 
 My research interests are broad, but typically centre around the concept of identity and its influence on voting behaviour. This takes two main forms:
 
-1. Exploring which local identities are politically salient, and how this salience plays out with regard to voting behaviour.
+1. Exploring which local (sub-national) identities are politically salient, and how this salience plays out with regard to voting behaviour.
 
-2. I'm also interested in the role of identities on the voting behaviour of elected parliamentarians, as well as the broader reasons why they vote the way they do.
+2. Exploring the impact of identities on the voting behaviour of elected parliamentarians, as well as the broader reasons why they vote the way they do.
 
 3. Anything else which piques my interest.
 
