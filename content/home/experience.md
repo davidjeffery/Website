@@ -29,15 +29,15 @@ experience:
     company: PSA Politics and History Specialist Group
     company_url: 'https://twitter.com/PSAPolHist'
     location: ''
-    date_start: ''
+    date_start: '2019'
     date_end: ''
-    # description: |2-
-    #     Responsibilities include:
-    #     
-    #     * Analysing
-    #     * Modelling
-    #     * Deploying
-    #     
+    description: |2-
+        Responsibilities include:
+
+        * Analysing
+        * Modelling
+        * Deploying
+
   - title: Professor
     company: University X
     company_url: ''
