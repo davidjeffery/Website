@@ -70,7 +70,7 @@ My research interests are broad, but typically centre around the concept of iden
 
 2. Exploring the voting behaviour of elected parliamentarians, as well as the broader reasons why they vote the way they do.
 
-3. Anything else which piques my interest, typically around voting behaviour and Liverpool's political history.
+And then there's anything else which piques my interest, typically involving voting behaviour and Liverpool's political history.
 
 I am also involved in building a database of local election results from across Merseyside, imaginatively called the [Merseyside Local Election Results Project](https://docs.google.com/spreadsheets/d/1M62Kn7Za_70jvmC5DI9hzXMyEfD5S5vwZrniPt7s0Sg/edit#gid=0).
 

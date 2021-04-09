@@ -29,7 +29,7 @@ experience:
     company: PSA Politics and History Specialist Group
     company_url: 'https://twitter.com/PSAPolHist'
     location: ''
-    date_start: '2019'
+    date_start: '2016-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
