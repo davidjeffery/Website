@@ -7,10 +7,10 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 120
 
 # Activate this widget? true/false
-active: true
+active: false
 
 title: Experience
 subtitle:
