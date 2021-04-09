@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 # Activate this widget? true/false
-active: true
+active: false
 
 title: Experience
 subtitle:
