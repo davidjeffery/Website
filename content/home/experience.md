@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 # Activate this widget? true/false
-active: false
+active: true
 
 title: Experience
 subtitle:
@@ -25,19 +25,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Convenor
+    company: PSA Politics and History Specialist Group
+    company_url: 'https://twitter.com/PSAPolHist'
+    location: ''
+    date_start: '2019'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
+    # description: |2-
+    #     Responsibilities include:
+    #     
+    #     * Analysing
+    #     * Modelling
+    #     * Deploying
+    #     
   - title: Professor
     company: University X
     company_url: ''
