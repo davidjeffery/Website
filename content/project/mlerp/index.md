@@ -1,7 +1,7 @@
 ---
 title: Merseyside Local Election Results Project
 date: "2020-10-18T00:00:00Z"
-external_link: https://docs.google.com/spreadsheets/d/1M62Kn7Za_70jvmC5DI9hzXMyEfD5S5vwZrniPt7s0Sg/edit#gid=0
+external_link: 
 image:
   caption: ""
   focal_point: ""
