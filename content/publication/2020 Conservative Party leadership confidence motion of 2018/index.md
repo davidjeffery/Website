@@ -1,34 +1,33 @@
 ---
-title: "Theresa May and the Conservative Party leadership confidence motion of 2018: analysing the voting behaviour of Conservative Parliamentarians"
+title: "Selecting Starmer: The Nomination Preferences of Labour Parliamentarians in the 2020 Labour Party Leadership Election"
 
-abstract: This article provides the first systematic academic appraisal of the confidence motion against the Conservative Party leadership of Theresa May in late 2018. We construct a detailed dataset of the parliamentary Conservative Party (PCP), and then test the significance of a range of hypotheses about how Conservative parliamentarians voted in the confidence motion. Our findings demonstrate how the original remain or leave divide on continued membership of the European Union (EU) was not statistically significant—i.e. our findings demonstrate that whether Conservative parliamentarians voted remain or leave themselves, or whether they held remain or constituencies, did not have an impact upon their vote in the confidence motion. Our findings demonstrate that the lack of confidence in May was dependent upon whether Conservative parliamentarians supported her Withdrawal Agreement (WA) and whether they were members of the European Research Group (ERG). Our research findings contribute to existing academic debates as they show that the drivers of the vote in the confidence motion of 2018 differed from the drivers of the vote in previous Conservative Party leadership elections—i.e. unlike previous contests non-ideological considerations were not statistically significant in terms of explaining voting behaviour.
+abstract: This article tests the nomination preferences of Labour parliamentarians in their 2020 leadership election against a range of individual, constituency and party-political based variables. From this our article produces the following three central findings. First, that the appeal of both Long-Bailey and Thornberry was narrow, and that they were competing for the support of Labour parliamentarians aligned to the Corbynista vote. Second, that the appeal of both Nandy and Phillips was based around an anti-Corbynista vote, with Nandy drawing support from parliamentarians from leave-voting constituencies. Third, that the unifying pitch of the Starmer candidature carries some validity: his nomination base was characterised by its breadth rather than any specific factional appeal.
 
 authors:
-- admin
 - Timothy Heppell
-- Richard Hayton
 - Andrew Scott Crines
-date: "2020-03-28T00:00:00Z"
-doi: https://doi.org/10.1057/s41293-020-00138-4
+- admin
+date: "2021-05-31T00:00:00Z"
+doi: https://doi.org/10.1080/00344893.2021.1927809
 featured: false
 image:
   preview_only: false
 links:
 - name: Academia.edu
-  url: https://www.academia.edu/43032530/Theresa_May_and_the_Conservative_Party_Leadership_Confidence_Motion_of_2018_Analysing_the_voting_behaviour_of_Conservative_parliamentarians
+  url: https://www.academia.edu/48253325/Selecting_Starmer_The_Nomination_Preferences_of_Labour_Parliamentarians_in_the_2020_Labour_Party_Leadership_Election
 projects:
 - Analysis of MP's voting behaviour
-- Conservatives
-publication: In *British Politics*
-publication_short: In *British Politics*
+- Labour
+publication: In *Representation, Journal of Representative Democracy*
+publication_short: In *Representation*
 publication_types:
 - "2"
-publishDate: "2020-03-28T00:00:00Z"
+publishDate: "2021-05-31T00:00:00Z"
 slides: 
 summary:
 tags:
 - Analysis of MP's voting behaviour
-- Conservatives
+- Labour Party
 url_code: ""
 url_dataset: ""
 url_pdf: ""
