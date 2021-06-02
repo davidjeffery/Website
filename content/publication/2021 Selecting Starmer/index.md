@@ -17,7 +17,7 @@ links:
   url: https://www.academia.edu/48253325/Selecting_Starmer_The_Nomination_Preferences_of_Labour_Parliamentarians_in_the_2020_Labour_Party_Leadership_Election
 projects:
 - Analysis of MP's voting behaviour
-- Labour Party
+- Labour
 publication: In *Representation, Journal of Representative Democracy*
 publication_short: In *Representation*
 publication_types:
