@@ -1,7 +1,7 @@
 ---
 title: "Selecting Starmer: The Nomination Preferences of Labour Parliamentarians in the 2020 Labour Party Leadership Election"
 
-abstract: This article tests the nomination preferences of Labour parliamentarians in their 2020 leadership election against a range of individual, constituency and party-political based variables. From this our article produces the following three central findings. First, that the appeal of both Long-Bailey and Thornberry was narrow, and that they were competing for the support of Labour parliamentarians aligned to the Corbynista vote. Second, that the appeal of both Nandy and Phillips was based around an anti-Corbynista vote, with Nandy drawing support from parliamentarians from leave-voting constituencies. Third, that the unifying pitch of the Starmer candidature carries some validity: his nomination base was characterised by its breadth rather than any specific factional appeal.
+abstract: This article tests the nomination preferences of Labour parliamentarians in their 2020 leadership election against a range of individual, constituency and party-political based variables. From this our article produces the following three central findings. First, that the appeal of both Long-Bailey and Thornberry was narrow, and that they were competing for the support of Labour parliamentarians aligned to the Corbynista vote. Second, that the appeal of both Nandy and Phillips was based around an anti-Corbynista vote, with Nandy drawing support from parliamentarians from leave-voting constituencies. Third, that the unifying pitch of the Starmer candidature carries some validity - his nomination base was characterised by its breadth rather than any specific factional appeal.
 
 authors:
 - Timothy Heppell
