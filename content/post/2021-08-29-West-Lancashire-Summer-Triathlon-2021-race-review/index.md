@@ -94,7 +94,7 @@ I'd be lying if I said I wasn't expecting a cheer from MamaJ - I looked around f
 
 # Results
 
-In a desperate attempt to build up suspense, I've avoided giving my times. Annoyingly, Epic Events' [results system](https://resultsbase.net/event/5463/results) seems to have had an error and hasn't recorded people's bike/T2 splits, which is really good, very happy with that... Thankfully, I was using my trusty Garmin Fenix watch[^2] (which I absolutely love, best Christmas present ever). I've put my results into the table below.
+In a desperate attempt to build up suspense, I've avoided giving my times... until now! I've given both the ["official" results from Epic Events](https://resultsbase.net/event/5463/results) and the times from my trusty Garmin Fenix watch[^2] (which I absolutely love, best Christmas present ever). I've put my results into the table below.
 
 [^2]: The purists amongst us will note that my Garmin time doesn't quite match up with the results page time. This is because I set the transition to start as soon as I got out the pool, rather than when I crossed the official timing pad. I'm not trying to pull a fast one, honest!
 
@@ -104,8 +104,8 @@ In a desperate attempt to build up suspense, I've avoided giving my times. Annoy
 |           | (predicted)        | (predicted)    | (Garmin) |[(Official)](https://resultsbase.net/event/5463/results/3175199) |
 | Swim      | 08:53              | 08:08          | 07:19    |07:42   |
 | T1*       | 03:44              | 03:44          | 03:38    |03:13   |
-| Bike      | 57:13              | 42:03          | 38:47    | |
-| T2*       | 01:28              | 01:28          | 01:09    |40:09(!) |
+| Bike      | 57:13              | 42:03          | 38:47    |39:12   |
+| T2*       | 01:28              | 01:28          | 01:09    |00:57   |
 | Run       | 22:23              | 22:47          | 22:08    |22:08    |
 | Total     | 01:33:39           | 01:18:10	      | 01:13:02 |01:13:13 |
 
@@ -115,7 +115,20 @@ I'm actually ecstatic. I shaved over 20 mins off my previous attempt - and while
 
 What I find really encouraging is that the last time I did this event my performance was well below par - I came 325th out of 520 overall, 225th out of 267 men, and 93rd out of the 102 people in my age group. So the bottom 40%, bottom 20% and bottom 10% respectively. This time I came 118th out of 441 overall, 106th out of 293 men, and 45th out of 103 in my age group - that's top 30%, top 40% and top 50% respectively. I mean, I won't be qualifying for Kona any time soon but I still see it as a massive improvement.
 
-If I were being overly critical, I think I could have pushed a bit harder on the bike and a bit harder on the run. I still had gas in the tank when I crossed the finish line, and I've known 5ks where I've really had to dig deep to hold a pace and finish it - and that was not today. On the other hand, I finished in one piece and I haven't broken my body. Not too shabby for an event I didn't know I was doing a fortnight ago!
+#### Position
+| Leg       | Leg Position  | Overall Position
+| ----------| ----------:        | ----------:    
+|           | (Male, out of 293)        | (Male, out of 293) 
+| Swim      | 70              | 70
+| T1       | 192              | 105
+| Bike      | 136              | 124
+| T2       | 24              | 120
+| Run       | 77              | 106
+| Total     | 106           | 106
+
+As the position table shows, relative to the rest of the field my swim was actually my strongest discipline! Usually my run is my strongest, although there was only a 7 place difference in this event - and relatively speaking I was still under-performing on the bike. There is plenty of area for improvement here!
+
+If I were being overly critical, I think I could have pushed a bit harder on the bike and much harder on the run. I still had gas in the tank when I crossed the finish line, and I've known 5ks where I've really had to dig deep to hold a pace and finish it - and that was not today. On the other hand, I finished in one piece and I haven't broken my body. Not too shabby for an event I didn't know I was doing a fortnight ago!
 
 If I were to do the next iteration of the event in April 2022 (and I've managed to convince MamaJ to give it a go - do I know any life insurance brokers?), I'd probably try to get a few practice bike rides in on the course and really hammer those hills.
 
