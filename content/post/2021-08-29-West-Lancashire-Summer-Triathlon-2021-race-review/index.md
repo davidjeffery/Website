@@ -1,5 +1,5 @@
 ---
-title: West Lancashire Triathlon 2021 Race Review
+title: West Lancashire Summer Triathlon 2021 Race Review
 date: 2021-08-29
 keywords: West Lancashire Triathlon, triathlon, race review
 ---
