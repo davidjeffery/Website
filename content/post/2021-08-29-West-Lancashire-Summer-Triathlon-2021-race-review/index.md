@@ -2,6 +2,10 @@
 title: West Lancashire Summer Triathlon 2021 Race Review
 date: 2021-08-29
 keywords: West Lancashire Triathlon, triathlon, race review
+image:
+  placement: 1
+  focal_point: ''
+  preview_only: false
 ---
 I didn't actually sign up for the West Lancashire Triathlon. Like many people, I signed up for the event when it was originally scheduled for April 2020, but it has been postponed three times: first to August 2020, then to April 2021, and now to 29th August 2021. 
 
