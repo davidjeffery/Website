@@ -74,4 +74,4 @@ And then there's anything else which piques my interest, typically involving vot
 
 I am also involved in building a database of local election results from across Merseyside, imaginatively called the [Merseyside Local Election Results Project](https://docs.google.com/spreadsheets/d/1M62Kn7Za_70jvmC5DI9hzXMyEfD5S5vwZrniPt7s0Sg/edit#gid=0).
 
-In my spare time I'm usually found triathlon training (my 2021 goal is to complete the Challenge Peguera Mallorca half-Ironman), watching reruns of Friends on Netflix, or learning Spanish on Duolingo. 
+In my spare time I'm usually found triathlon training (my 2022 goal is to complete Ironman UK in early July), watching reruns of Friends on Netflix, or learning Spanish on Duolingo. 

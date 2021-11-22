@@ -4,7 +4,7 @@
 abstract: This article provides an empirical analysis of the voting behaviour of Conservative parliamentarians in the final parliamentary ballot of the Conservative Party leadership election of 2019. We construct a dataset for the parliamentary Conservative Party and then put forward hypotheses that will consider the possible Eurosceptic, party political, economic and/or ideological motivations for the voting behaviour of Conservative parliamentarians in the final parliamentary ballot. Our findings demonstrate that support for Johnson and Hunt was structured around age and voting behaviour in the European Union (EU) membership referendum, with support for Gove drawn from those who voted for May’s Withdrawal Agreement in the first meaningful vote. Other factors, such as the economic impact of Brexit on constituencies and social liberalism, were not found to be statistically significant.
 
 authors:
-  - admin
+- admin
 - Timothy Heppell
 - Andrew Scott Roe-Crines
 date: "2020-06-27T00:00:00Z"
