@@ -1,5 +1,5 @@
 ---
-title: How to Lose Votes and Alienate People
+title: How to Lose Votes and Alienate People - Conservative Decline in Liverpool
 
 event: Thatcher Network Annual Conference 2018
 event_url: https://thatchernet.org/conferences/conference-2018/
