@@ -62,7 +62,7 @@ superuser: true
 title: Dr David Jeffery
 ---
 
-Hi! I'm David, a lecturer in politics at the University of Liverpool. 
+Hi! I'm David, a senior lecturer in British politics at the University of Liverpool. 
 
 My research interests are broad, but typically centre around the concept of identity and its influence on voting behaviour. This takes two main forms:
 
@@ -70,8 +70,8 @@ My research interests are broad, but typically centre around the concept of iden
 
 2. Exploring the voting behaviour of elected parliamentarians, as well as the broader reasons why they vote the way they do.
 
-And then there's anything else which piques my interest, typically involving voting behaviour and Liverpool's political history.
+And then there's anything else which piques my interest, typically involving voting behaviour and Liverpool's political history. I am also the author of *Whatever Happened to Tory Liverpool?*, published by Liverpool University Press, and [available as a hardback (£28) or an ebook (free)](https://www.liverpooluniversitypress.co.uk/doi/book/10.3828/9781802078480).
 
 I am also involved in building a database of local election results from across Merseyside, imaginatively called the [Merseyside Local Election Results Project](https://docs.google.com/spreadsheets/d/1M62Kn7Za_70jvmC5DI9hzXMyEfD5S5vwZrniPt7s0Sg/edit#gid=0).
 
-In my spare time I'm usually found triathlon training (my 2022 goal is to complete Ironman UK in early July), watching reruns of Friends on Netflix, or learning Spanish on Duolingo. 
+In my spare time I'm usually found triathlon training (I'm aiming to complete my second Ironman in September 2023), staying up too late making maps, or abusing the spirit of the Pizza Hut buffet. 
