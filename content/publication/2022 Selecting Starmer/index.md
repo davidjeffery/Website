@@ -22,7 +22,7 @@ publication: In *Representation, Journal of Representative Democracy*
 publication_short: In *Representation*
 publication_types:
 - "2"
-publishDate: "2021-05-31T00:00:00Z"
+publishDate: "2022-10-02T00:00:00Z"
 slides: 
 summary:
 tags:
