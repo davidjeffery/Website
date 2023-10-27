@@ -11,7 +11,7 @@ featured: true
 image:
   preview_only: false
 projects:
--Scouse identity
+- Scouse identity
 publication: In *British Politics*
 publication_short: In *British Politics*
 publication_types:
