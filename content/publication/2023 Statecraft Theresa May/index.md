@@ -14,6 +14,8 @@ image:
 links:
 projects:
 - Conservatives
+publication: In *British Politics*
+publication_short: In *British Politics*
 publication_types:
 - "5"
 publishDate: "2023-07-11T00:00:00Z"
@@ -27,6 +29,6 @@ url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: TBC
+url_source: "
 url_video: ""
 ------
