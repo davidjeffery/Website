@@ -6,7 +6,7 @@ abstract: The political salience of local identities has received limited academ
 authors:
 - admin
 date: "2023-09-21T00:00:00Z"
-doi: [https://doi.org/10.1057/s41293-023-00242-1](https://doi.org/10.1057/s41293-023-00242-1)
+doi: "https://doi.org/10.1057/s41293-023-00242-1"
 featured: true
 image:
   preview_only: false
