@@ -7,7 +7,7 @@ authors:
 - Andrew Roe-Crines
 - admin
 date: "2023-07-11T00:00:00Z"
-doi: [https://doi.org/10.1057/s41293-021-00199-z](https://doi.org/10.1007/978-3-031-32472-7)
+doi: "https://doi.org/10.1007/978-3-031-32472-7"
 featured: false
 image:
   preview_only: false
