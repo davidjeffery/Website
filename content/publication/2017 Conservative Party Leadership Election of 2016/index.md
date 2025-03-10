@@ -9,7 +9,7 @@ authors:
 - Richard Hayton
 - Andrew Scott Crines
 date: "2017-08-28T00:00:00Z"
-doi: https://doi.org/10.1080/17457289.2017.1403921
+doi: https://doi.org/10.1093/pa/gsx027
 featured: false
 image:
   preview_only: false
