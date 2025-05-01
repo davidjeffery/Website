@@ -13,6 +13,8 @@ featured: false
 image:
   preview_only: false
 links:
+- name: Academia.edu
+  url: https://www.academia.edu/127863030/BACKING_BADENOCH_THE_CONSERVATIVE_PARTY_LEADERSHIP_ELECTION_OF_2024
 projects:
 - Analysis of MP's voting behaviour
 - Conservatives
@@ -32,6 +34,6 @@ url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://www.academia.edu/127863030/BACKING_BADENOCH_THE_CONSERVATIVE_PARTY_LEADERSHIP_ELECTION_OF_2024"
+url_source: "https://doi.org/10.1093/pa/gsaf010"
 url_video: ""
 ------
