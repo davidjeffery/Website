@@ -1,25 +1,27 @@
 {{ $csvPath := .Get "src" }}
 {{ $csv := resources.Get $csvPath }}
 
-{{ with $csv }}
-  {{ with . | transform.Unmarshal }}
+{{ if $csv }}
+  {{ with $csv | transform.Unmarshal }}
     <div class="media-publications">
-      {{/* 'after 1 .' skips the header row of your CSV */}}
       {{ range after 1 . }}
-        <div class="publication-item" style="margin-bottom: 1.75rem; border-left: 3px solid #0066cc; padding-left: 1rem;">
-          <h3 style="margin-bottom: 0.25rem; font-size: 1.2rem;">
-            <a href="{{ index . 2 }}" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #0066cc;">{{ index . 0 }}</a>
+        <div class="publication-item" style="margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid rgba(0,0,0,0.08);">
+          <h3 style="margin-bottom: 0.3rem; font-size: 1.25rem; font-weight: 600; line-height: 1.3;">
+            <a href="{{ index . 2 }}" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">{{ index . 0 }}</a>
           </h3>
-          <div class="pub-meta" style="font-size: 0.9rem; color: #666;">
-            <strong>{{ index . 1 }}</strong> — <em>{{ index . 3 }}</em>
+          <div class="pub-meta" style="font-size: 0.9rem; color: #666; margin-bottom: 0.5rem;">
+            <span style="font-weight: 500;">{{ index . 1 }}</span> &middot; <span>{{ index . 3 }}</span>
           </div>
           {{ if index . 4 }}
-            <p class="pub-description" style="margin-top: 0.5rem; font-size: 0.95rem; color: #333;">{{ index . 4 }}</p>
+            <p class="pub-description" style="font-size: 0.95rem; color: #333; line-height: 1.5; margin-top: 0; margin-bottom: 0;">{{ index . 4 }}</p>
           {{ end }}
         </div>
       {{ end }}
     </div>
   {{ end }}
 {{ else }}
-  {{ errorf "Hugo tracking error: Unable to find your CSV file at 'assets/%s'." $csvPath }}
+  <div style="padding: 1rem; background: #fff5f5; color: #c53030; border: 1px solid #fed7d7; border-radius: 4px; margin: 2rem 0;">
+    <strong>Hugo Asset Error:</strong> Could not find data file at <code>assets/{{ $csvPath }}</code>. 
+    Verify the file is not accidentally inside the <code>static/</code> directory.
+  </div>
 {{ end }}
