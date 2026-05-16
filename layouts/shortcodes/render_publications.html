@@ -1,0 +1,25 @@
+{{ $csvPath := .Get "src" }}
+{{ $csv := resources.Get $csvPath }}
+
+{{ with $csv }}
+  {{ with . | transform.Unmarshal }}
+    <div class="media-publications">
+      {{/* 'after 1 .' skips the header row of your CSV */}}
+      {{ range after 1 . }}
+        <div class="publication-item" style="margin-bottom: 1.75rem; border-left: 3px solid #0066cc; padding-left: 1rem;">
+          <h3 style="margin-bottom: 0.25rem; font-size: 1.2rem;">
+            <a href="{{ index . 2 }}" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #0066cc;">{{ index . 0 }}</a>
+          </h3>
+          <div class="pub-meta" style="font-size: 0.9rem; color: #666;">
+            <strong>{{ index . 1 }}</strong> — <em>{{ index . 3 }}</em>
+          </div>
+          {{ if index . 4 }}
+            <p class="pub-description" style="margin-top: 0.5rem; font-size: 0.95rem; color: #333;">{{ index . 4 }}</p>
+          {{ end }}
+        </div>
+      {{ end }}
+    </div>
+  {{ end }}
+{{ else }}
+  {{ errorf "Hugo tracking error: Unable to find your CSV file at 'assets/%s'." $csvPath }}
+{{ end }}
