@@ -19,6 +19,9 @@ main:
   - name: Publications
     url: '#publications'
     weight: 50
+  - name: Media
+    url: media-publications/
+    weight: 40
   # - name: Courses
   #   url: courses/
   #   weight: 60
