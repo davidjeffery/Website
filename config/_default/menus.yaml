@@ -14,7 +14,7 @@ main:
     url: '#talks'
     weight: 30
   - name: Media Output
-    url: media-publications/
+    url: '#media'
     weight: 40
   - name: Dashboards
     url: '#projects'
