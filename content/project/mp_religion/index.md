@@ -1,6 +1,6 @@
 ---
 title: The Religious Background of MPs (2024 parliament)
-date: "2020-10-18T00:00:00Z"
+date: "2025-05-08T00:00:00Z"
 external_link: 
 image:
   caption: ""
