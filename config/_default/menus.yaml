@@ -16,12 +16,12 @@ main:
   - name: Non-Academic Writing
     url: '#media'
     weight: 40
-  - name: Dashboards
+  - name: Dashboards & Data
     url: '#projects'
     weight: 50
-  - name: Posts
-    url: '#posts'
-    weight: 60
+  # - name: Posts
+  #   url: '#posts'
+  #   weight: 60
   # - name: Courses
   #   url: courses/
   #   weight: 60
