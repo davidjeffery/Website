@@ -35,7 +35,7 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 2
-  css_style: 'max-height: 500px; overflow-y: auto; padding-right: 10px; scroll-behavior: smooth;'
+  css_style: 'academic-scrollbox'
 ---
 
 {{% callout note %}}
