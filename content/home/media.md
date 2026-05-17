@@ -7,7 +7,7 @@ active: true
 headless: true
 
 # The order this section appears on the homepage (adjust this number to change its position)
-weight: 65
+weight: 40
 
 title: "Non-Academic Writing"
 subtitle: "Commentary, journalism, and other writing"
