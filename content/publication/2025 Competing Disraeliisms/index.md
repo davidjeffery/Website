@@ -14,7 +14,7 @@ links:
 projects:
 - Conservative Party
 publication: In *Benjamin Disraeli (1804‒1881): His Lives and Afterlives*
-publication_short: In *PolQuo*
+publication_short: 
 publication_types:
 - "2"
 publishDate: "2025-04-07T00:00:00Z"
