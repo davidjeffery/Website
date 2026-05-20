@@ -4,42 +4,50 @@
 {{ if $csv }}
   {{ with $csv | transform.Unmarshal }}
 
-    {{/* Drop header row */}}
     {{ $rows := after 1 . }}
+    {{ $publications := slice }}
 
-    {{/* Sort by date column, newest first. 
-         Assumes date is in a sortable format, ideally YYYY-MM-DD.
-    */}}
-    {{ $rows = sort $rows "3" "desc" }}
+    {{ range $rows }}
+      {{ $publications = $publications | append (dict
+        "title" (index . 0)
+        "publication" (index . 1)
+        "url" (index . 2)
+        "date" (index . 3)
+        "description" (index . 4)
+      ) }}
+    {{ end }}
+
+    {{ $publications = sort $publications "date" "desc" }}
 
     <div class="media-publications" data-page-size="5">
-
       <div class="publication-list">
-        {{ range $i, $row := $rows }}
+
+        {{ range $i, $pub := $publications }}
           <div class="publication-item"
                data-publication-index="{{ $i }}"
                style="margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid rgba(0,0,0,0.08);">
 
             <h3 style="margin-bottom: 0.3rem; font-size: 1.25rem; font-weight: 600; line-height: 1.3;">
-              <a href="{{ index $row 2 }}" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-                {{ index $row 0 }}
+              <a href="{{ $pub.url }}" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+                {{ $pub.title }}
               </a>
             </h3>
 
             <div class="pub-meta" style="font-size: 0.9rem; color: #666; margin-bottom: 0.5rem;">
-              <span style="font-weight: 500;">{{ index $row 1 }}</span>
+              <span style="font-weight: 500;">{{ $pub.publication }}</span>
               &middot;
-              <span>{{ index $row 3 }}</span>
+              <span>{{ $pub.date }}</span>
             </div>
 
-            {{ if index $row 4 }}
+            {{ if $pub.description }}
               <p class="pub-description" style="font-size: 0.95rem; color: #333; line-height: 1.5; margin-top: 0; margin-bottom: 0;">
-                {{ index $row 4 }}
+                {{ $pub.description }}
               </p>
             {{ end }}
 
           </div>
         {{ end }}
+
       </div>
 
       <div class="publication-pagination"
@@ -98,6 +106,10 @@
             const visibleEnd = Math.min(end, items.length);
 
             status.textContent = `Showing ${visibleStart}–${visibleEnd} of ${items.length}`;
+
+            if (items.length <= pageSize) {
+              container.querySelector(".publication-pagination").style.display = "none";
+            }
           }
 
           prevButton.addEventListener("click", function () {
